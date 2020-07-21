@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Danielabraham7/Danielabraham7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <b>I am Daniel Abraham (Not My Real Name) aka Dan</b>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
