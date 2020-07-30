@@ -5,7 +5,9 @@
 - 📫 How to reach me: <br>
 
  [Meet Me On Telegram](https://telegram.dog/Daniel_Abraham)<br>
- [Website](https://danielAbrham7.github.io)
+ [Website](https://danielAbraham7.github.io)
+ [Secondary Account](https://github.com/Artis7eeR)
+
  <br>
    **Fact**
    **🙂I am A Noob**<br>
