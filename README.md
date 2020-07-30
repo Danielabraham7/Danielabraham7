@@ -11,6 +11,6 @@
    <b>Fact</b>
    <b>🙂I am A Noob</b><br>
    <br>
-<b>Dan's Github Stats<b>
+<b>My Github Stats<b>
 <p><img src="https://github-readme-stats.vercel.app/api?username=DanielAbraham7&show_icons=true&title_color=white&icon_color=1d0a7a&text_color=b81641&bg_color=151515" ></p>
 
