@@ -6,8 +6,7 @@
 
  [Meet Me On Telegram](https://telegram.dog/Daniel_Abraham)<br>
  [Website](https://danielAbraham7.github.io) <br>
- [Secondary Account](https://github.com/Artis7eeR)
-
+ 
  <br>
    **Fact**
    **🙂I am A Noob**<br>
