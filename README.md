@@ -29,7 +29,7 @@
   <a href="https:danielabraham7.github.io">
     <img align="left" alt="Dan's Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
-  <a href="https://telegram.dog/Daniel_Abraham">
+  <a href="https://telegram.dog/ARTIS7EER">
     <img align="left" alt="Dan's Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
   
