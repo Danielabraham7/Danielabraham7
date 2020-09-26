@@ -14,7 +14,7 @@
                    'Hungry For Knowledge🤤',
                    'FOSS ❤r',
                    'Tech Lover',
-                   'Patriot'
+                   'Removed For Nothing😐'
                    ],
   Inspired_quote : ['Knowledge is Power']
 ```
