@@ -13,8 +13,7 @@
                    'Small Cyber Security Researcher🤭',
                    'Hungry For Knowledge🤤',
                    'FOSS ❤r',
-                   'Tech Lover',
-                   'Removed For Nothing😐'
+                   'Tech Lover'
                    ],
   Inspired_quote : ['Knowledge is Power']
 ```
